@@ -5,7 +5,7 @@ position: 2
 category: 'THIRM VM'
 ---
 
-As a independent user you can also run THIRM VM and even get paid for doing it.
+As a independent user you can also run THIRM VM and even get paid for doing it. 
 
 
 ## Formula 
@@ -28,7 +28,7 @@ You must have atleast 5% of total supply of THIRM.
 
 ## Rewards 
 
-80% of user fees paid in THIRM 
+0.8X of THIRM burned by user are minter to the node runner thats the first one to process it.
 
 
 ## Penelties 
