@@ -12,3 +12,4 @@ category: ''
 | Data Storage | - |  Database |  Smart Contract |
 | Trustless | - | YES | YES |
 | Fees | - | 0.1% + Network fees | 0.5 THIRM Burn |
+| Supported Blockchains  | 1 |  3 |  5 |
