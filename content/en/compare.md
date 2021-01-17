@@ -10,3 +10,4 @@ category: ''
 | Deposit  | NO |  YES |  YES |
 | Withdraw | NO |  YES |  YES |
 | Data Storage | - |  Database |  Smart Contract |
+| Trustless | - | YES | YES |
