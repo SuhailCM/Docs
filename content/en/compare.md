@@ -11,4 +11,4 @@ category: ''
 | Withdraw | NO |  YES |  YES |
 | Data Storage | - |  Database |  Smart Contract |
 | Trustless | - | YES | YES |
-| fees | - | 0.1% + Network fees | 0.5 THIRM Burn |
+| Fees | - | 0.1% + Network fees | 0.5 THIRM Burn |
