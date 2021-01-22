@@ -7,16 +7,16 @@ category: 'FAQ'
 
 ## Are my funds safe ?
 
-Thirm protocol is distributed modules which means the whole ecosystem is split into components and all these components never get the access to interact with the private keys, the component with private keys never connects to the internet its stays in complete isolation from the user.
+Thirm protocol's smart contract is based on distributed modules which means that the whole ecosystem is split into different components allowing no access and interaction with the private keys; they are in complete isolation from the user. 
 
-In short think of it as an isolated system that talks to no one and only work when the data is accepted by blockchains themselves.
+In short, think of it as an isolated system that talks to no one and only work when the data is accepted by the blockchains themselves.
 
 ## How fast are Deposits/Withdrawals ?
 
-Each Deposit or Withdraw is almost instantaneous, exact timings depend on the parent blockchain. But our current average processing time is around 1 Ethereum blocks ( around 10 seconds).
+Each Deposit or Withdraw is almost instantaneous with exact timing depending on the parent blockchain. But our current average processing time is around 1 Ethereum blocks (around 10 seconds).
 
 ## Can my funds get stuck ?
 
-The whole system is atomic, which means either it's in-state 0 or state 1 but it will never be stuck, in case a transaction fails or an error the state is never saved and your funds stay in the previous state.
+The whole system is atomic, which means either it is in state 0 or state 1 therefore it can never be stuck. In case a transaction fails or an error occurs, the transaction will be reverted and the funds return in the previous state.
 
-In short, to make a transaction successful protocol has to submit its transaction hash in the respective blockchain which verifies the checksum and mark the transaction complete.
+In short, to make a transaction successful, protocol has to submit its transaction hash in the respective blockchain which verifies the checksum and mark the transaction complete.
